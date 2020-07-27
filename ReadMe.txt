@@ -1,2 +1,2 @@
 Hello WorldHello Git and GitHub
-\nWhat is up?
+What is up?
